@@ -19,12 +19,12 @@ avatar: https://avatars3.githubusercontent.com/u/94471?v=3&s=70
 footer-links:
   dribbble: 
   email: bweeks@gmail.com
-  facebook: itsbenweeks
-  flickr: itsbenweeks
+#  facebook: itsbenweeks
+#  flickr: itsbenweeks
   github: itsbenweeks
   instagram: itsbenweeks
   linkedin: itsbenweeks
-  pinterest: itsbenweeks
+#  pinterest: itsbenweeks
   rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
   twitter: itsbenweeks 
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
