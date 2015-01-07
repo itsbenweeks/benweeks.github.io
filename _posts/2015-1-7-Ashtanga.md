@@ -7,7 +7,7 @@ categories: Yoga
 
 This past October I began [Down Under Yoga's Mysore
 Program](http://downunderyoga.com/classes/class-descriptions/#testimonials-6). There's a
-methodology to Ashtanga that I find particularly appeal and respect. 
+methodology to Ashtanga that I  respect. 
 Showing up to a room at 6AM every morning to start practicing a sequence that is
 incrementally taught to you sounds like a very appealing and rewarding process,
 and in the ongoing months, I've found it to be so.
