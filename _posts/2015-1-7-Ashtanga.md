@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why I'm a crappy Ashtangi
+title: Why I am a crappy Ashtangi
 slug: 2015-1-7-Ashtanga
 category: "Yoga"
 ---
