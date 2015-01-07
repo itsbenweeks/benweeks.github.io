@@ -2,7 +2,7 @@
 layout: post
 title: Why I'm a crappy Ashtangi
 slug: 2015-1-7-Ashtanga
-categories: Yoga
+category: "Yoga"
 ---
 
 This past October I began [Down Under Yoga's Mysore

@@ -72,3 +72,8 @@ exclude:
     - Gemfile.lock
     - LICENSE
     - README.md
+
+defailts:
+    -
+    values:
+        category: "General"
