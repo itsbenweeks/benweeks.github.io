@@ -73,7 +73,7 @@ exclude:
     - LICENSE
     - README.md
 
-defailts:
+defaults:
     -
     values:
         category: "General"
