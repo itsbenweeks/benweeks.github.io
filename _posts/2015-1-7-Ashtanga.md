@@ -5,7 +5,7 @@ slug: 2015-1-7-Ashtanga
 category: "Yoga"
 ---
 
-This past October I began [Down Under Yoga's Mysore
+This past October I began Ashtanga yoga through [Down Under Yoga's Mysore
 Program](http://downunderyoga.com/classes/class-descriptions/#testimonials-6). There's a
 methodology to Ashtanga that I  respect. 
 Showing up to a room at 6AM every morning to start practicing a sequence that is
