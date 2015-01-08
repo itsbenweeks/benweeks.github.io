@@ -74,6 +74,5 @@ exclude:
     - README.md
 
 defaults:
-    -
-    values:
+    - values:
         category: "General"
