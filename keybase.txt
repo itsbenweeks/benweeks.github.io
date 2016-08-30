@@ -1,0 +1,53 @@
+https://keybase.io/itsbenweeks
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://itsbenweeks.com
+  * I am itsbenweeks (https://keybase.io/itsbenweeks) on keybase.
+  * I have a public key ASAJfVhCsfyPJ8-y3k05Z_6m4k2lEY-KN16Cn1T1ZJzblQo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0120097d5842b1fc8f27cfb2de4d3967fea6e24da5118f8a375e829f54f5649cdb950a",
+            "host": "keybase.io",
+            "kid": "0120097d5842b1fc8f27cfb2de4d3967fea6e24da5118f8a375e829f54f5649cdb950a",
+            "uid": "b883fe0f7dd70601f533823c23301619",
+            "username": "itsbenweeks"
+        },
+        "service": {
+            "hostname": "itsbenweeks.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.16"
+    },
+    "ctime": 1472568926,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1472568824,
+        "hash": "7d458e9169e968881d4ebb7e61ef3773f24cfdfb5638af53022637e418fe4f29130276fd553a7af3ef39faa60e0026268149d1f64a72e5a3609eb0d60aa4bd61",
+        "seqno": 609632
+    },
+    "prev": "f964dffb9f4558e42b582f1616d754bad01617bd072fc9cdeb132159d7e8ad1e",
+    "seqno": 10,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgCX1YQrH8jyfPst5NOWf+puJNpRGPijdegp9U9WSc25UKp3BheWxvYWTFAvp7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwMDk3ZDU4NDJiMWZjOGYyN2NmYjJkZTRkMzk2N2ZlYTZlMjRkYTUxMThmOGEzNzVlODI5ZjU0ZjU2NDljZGI5NTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwMDk3ZDU4NDJiMWZjOGYyN2NmYjJkZTRkMzk2N2ZlYTZlMjRkYTUxMThmOGEzNzVlODI5ZjU0ZjU2NDljZGI5NTBhIiwidWlkIjoiYjg4M2ZlMGY3ZGQ3MDYwMWY1MzM4MjNjMjMzMDE2MTkiLCJ1c2VybmFtZSI6Iml0c2JlbndlZWtzIn0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJpdHNiZW53ZWVrcy5jb20iLCJwcm90b2NvbCI6Imh0dHA6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjE2In0sImN0aW1lIjoxNDcyNTY4OTI2LCJleHBpcmVfaW4iOjUwNDU3NjAwMCwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE0NzI1Njg4MjQsImhhc2giOiI3ZDQ1OGU5MTY5ZTk2ODg4MWQ0ZWJiN2U2MWVmMzc3M2YyNGNmZGZiNTYzOGFmNTMwMjI2MzdlNDE4ZmU0ZjI5MTMwMjc2ZmQ1NTNhN2FmM2VmMzlmYWE2MGUwMDI2MjY4MTQ5ZDFmNjRhNzJlNWEzNjA5ZWIwZDYwYWE0YmQ2MSIsInNlcW5vIjo2MDk2MzJ9LCJwcmV2IjoiZjk2NGRmZmI5ZjQ1NThlNDJiNTgyZjE2MTZkNzU0YmFkMDE2MTdiZDA3MmZjOWNkZWIxMzIxNTlkN2U4YWQxZSIsInNlcW5vIjoxMCwidGFnIjoic2lnbmF0dXJlIn2jc2lnxEB/GlLPNJ/Ak4yaiuNmx7oCQBUPmNUnhlEB8/h+yQcUY1e948Vq2fGESh0yvUYGcUGh5k3bt+dU6S/+AuWAFnQEqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQghT0uU++NBDrJ+q2lFeVzJPgMrNcYDKsXGSuFaA2e5vajdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/itsbenweeks
+
+

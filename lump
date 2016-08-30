@@ -1,0 +1,15 @@
+Fortunately, through processes like code refactoring, lumpenprogrammers have lost much of their ability to do anything more destructive than drink too much coffee and otherwise do little or no 
+work. Wally, the coffee-drinking co-worker of Dilbert, is a lumpenprogrammer—one of the best, 'er worst.
+
+Still projects get mucked-up, source code is lost, and crises take place when this loss is discovered. It shouldn't happen but it does. Right now, for example, one of the top three Internet 
+photo-sharing sites is suffering exactly this problem. I'll leave you to guess which one it is. There isn't any outward indication that there is a problem because the site continues to run 
+smoothly. But the company that owns it has discovered it seems to possess only object code and that code is broken and undecipherable. Nobody still with the company understands it well enough to 
+change the code or add new features, which means certain death in the era of Web 2.0.
+
+Now in this instance it is probably unfair to blame the problem solely on lumpenprogrammers, but at some point, with the departure of certain engineers, the lights were left on but nobody was 
+home. The company now has to decide whether to try a Y2K remediation-type exercise in code archeology or simply start over from scratch, in the process throwing away code bought for close to $100 
+million. They are probably going to start from scratch.
+
+Short of deliberate sabotage, a good source code control system would have avoided this problem, its cost in lost competitive advantage and code replacement.
+
+If only they had thought to buy one. . . .
