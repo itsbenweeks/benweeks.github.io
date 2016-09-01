@@ -12,7 +12,7 @@ graduated with honors! It's been a lot of hard work and I'm glad it's over.
 Now that I've completed my degree, I was thinking of looking back at what the
 most prominent pieces I learned were. Let's take a look.
 
-###Data Structures and Algorithm Design run the CS world.
+### Data Structures and Algorithm Design run the CS world.
 
 I took a Data Structures class in my second semester at BU. It was one of the
 best classes that I took, and learning the difference between linked lists,
@@ -27,7 +27,7 @@ often misconcieved notions. In general, try to make a few loops as possible,
 make `if..else` statements check the most common cases first, and keep data
 sorted if you receive it sorted.
 
-###Pick a Team that knows the tech
+### Pick a Team that knows the tech
 
 Wait, a lesson about working in teams when working in a CS degree!? Novel, I
 know. But this is one of those lessons that I learned the hard way. Storytime. I work with
