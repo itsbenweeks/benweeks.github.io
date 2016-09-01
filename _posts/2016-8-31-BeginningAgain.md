@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Beginning Again
-slug: 2016-7-31-BeginingAgain
+slug: 2016-8-31-BeginingAgain
 category: "School, CS, Computer Science"
 ---
 
