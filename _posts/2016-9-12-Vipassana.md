@@ -5,7 +5,7 @@ slug: 2016-9-12-Vipassana
 category: "Meditation, Yoga"
 ---
 
-So, previous I've written about Ashtanga yoga. I attempted to do a program in
+So, previously I've written about Ashtanga yoga. I attempted to do a program in
 neighboring Brookline, but it met with some resistance. I'm happy to say that
 Whatever blocker that were preventing me from practicing in the past have
 subsided, and that I am practicing a full minimum of 4 mornings a week. It's an
