@@ -45,7 +45,7 @@ there are many world-wide.) This in part helps you operate under a number of rul
   people around me were not to be communicated with. And this definition of communication was pretty broad. Eye-contact can be a form
   of communication; so you that was off limits.
 
-* *No touching* - Students must also refrain from touching each other. This was an interesting one. On my eigth day I remember a person touched my while reaching for a bowl in the food line. It was only then that I realized it was the first time in a week that I had been touched. My body grews more sensitive, especially for a kinesthetic person like myself.
+* *No touching* - Students must also refrain from touching each other. This was an interesting one. On my eigth day I remember a person touched me while reaching for a bowl in the food line. It was only then that I realized it was the first time in a week that I had been touched. My body grews more sensitive, especially for a kinesthetic person like myself.
 
 * *Meals are provided* - All students were fed wholesome vegetarian meals for
   the duration of the 10 day course. The food provided was very
