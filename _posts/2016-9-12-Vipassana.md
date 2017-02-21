@@ -88,7 +88,7 @@ So if you count that all up, there was 11 hours of meditation every day. My yoga
 practice requires me to be aware of my body, and this got in the way for a bit at
 the beginning of the course as I fixated on my posture. It wasn't until the 2nd or 3rd day that I could
 let enough of that go so that I could work on the other stuff that I needed to. Once it
-was done I started getting into the meditation. Saying that it was easy is
+was done I started getting into the meditation. Saying that it was easy isn't
 entirely correct, but it was necessary. There was quite a
 bit of emotional cruft that I had put aside during my studies.
 Having the days I did really helped me look at it, dig into it, and get closer
